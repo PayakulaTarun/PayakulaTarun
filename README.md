@@ -112,8 +112,7 @@ I spend my time working with:
 - [Title of your third blog post](link-to-blog-post)
 <!-- BLOG-POST-LIST:END -->
 
-## 📫 How to reach me
+## 📅 Let's Connect
 
-Feel free to reach out to me on any of the platforms above or [schedule a meeting](your-calendly-link)
-
+I'm always open to discussing new projects, ideas, or opportunities.
 ---
