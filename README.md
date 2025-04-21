@@ -7,12 +7,12 @@
 
 ## About Me
 
-💻 I'm a [Your Role] passionate about [Your Interests]  
-🌱 Currently learning [Technology/Skill You're Learning]  
-🔭 Working on [Current Project]  
-👯 Looking to collaborate on [Type of Projects]  
-💬 Ask me about [Your Expertise]  
-📍 Based in [Your Location]
+💻 I'm a P.Tarun Chandra passionate about Artificial Intelligence
+🌱 Currently learning mobile application development  
+🔭 Working on Personal System  
+👯 Looking to collaborate on AI Projects  
+💬 Ask me about Python  
+📍 Based in Vijayawada,Andhra Pradesh,India
 
 ## 🛠️ Skills
 
@@ -61,18 +61,18 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PayakulaTarun&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayakulaTarun&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/PayakulaTarun/ai_voice_assistencs.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PayakulaTarun&repo=project-1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/PayakulaTarun/Study_platform.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PayakulaTarun&repo=project-2&theme=radical" alt="Project 2" />
   </a>
 </div>
 
@@ -91,7 +91,7 @@ JSON         56 mins         █░░░░░░░░░░░░░░░░
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PayakulaTarun&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📝 Latest Blog Posts
@@ -109,7 +109,7 @@ Feel free to reach out to me on any of the platforms above or [schedule a meetin
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PayakulaTarun&color=blueviolet&style=flat" alt="Profile views" />
   <p>Thanks for visiting my profile! Have a great day! 😄</p>
   
   ![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
