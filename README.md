@@ -117,10 +117,3 @@ I spend my time working with:
 Feel free to reach out to me on any of the platforms above or [schedule a meeting](your-calendly-link)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PayakulaTarun&color=blueviolet&style=flat" alt="Profile views" />
-  <p>Thanks for visiting my profile! Have a great day! 😄</p>
-  
-  ![Snake animation](https://github.com/PayakulaTarun/PayakulaTarun/blob/output/github-contribution-grid-snake.svg)
-</div>
