@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&theme=radical&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PayakulaTarun&theme=radical&show_icons=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PayakulaTarun&theme=radical" height="180"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ### 💻 Languages & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayakulaTarun&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/PayakulaTarun/PayakulaTarun/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
