@@ -26,7 +26,7 @@
 
 ### 🚀 Pinned Projects
 
-<a href="https://github.com/YourUsername/ai-voice-assistant">
+<a href="https://github.com/PayakulaTarun/ai_voice_assistencs.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ai-voice-assistant&theme=radical" />
 </a>
 <a href="https://github.com/YourUsername/student-learning-platform">
