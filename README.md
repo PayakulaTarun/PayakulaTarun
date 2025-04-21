@@ -89,6 +89,15 @@ JSON         56 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
+## 💻 Coding Activity
+
+I spend my time working with:
+- Frontend Development: **45%**
+- Backend Systems: **30%**
+- DevOps & Infrastructure: **15%**
+- Learning & Research: **10%**
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
