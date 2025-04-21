@@ -68,13 +68,14 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/PayakulaTarun/ai_voice_assistencs.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PayakulaTarun&repo=project-1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/PayakulaTarun/ai_voice_assistencs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PayakulaTarun&repo=ai_voice_assistencs&theme=radical" alt="AI Voice Assistant" />
   </a>
-  <a href="https://github.com/PayakulaTarun/Study_platform.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PayakulaTarun&repo=project-2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/PayakulaTarun/Study_platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PayakulaTarun&repo=Study_platform&theme=radical" alt="Study Platform" />
   </a>
 </div>
+
 
 ## 📊 Weekly Development Breakdown
 
