@@ -6,7 +6,7 @@
 
 **I build AI-powered systems that run locally and web platforms that solve real problems.**
 
-[Portfolio](https://tarunchandra.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/payakula-tarun-chandra-4a06452b3/) • [Email](mailto:payakulatarunchandra@gmail.com)
+[Portfolio](https://my-portoflio-1h7fgdouk-payakulataruns-projects.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/payakula-tarun-chandra-4a06452b3/) • [Email](mailto:payakulatarunchandra@gmail.com)
 
 </div>
 
