@@ -1,46 +1,89 @@
+<div align="center">
+
 # P. Tarun Chandra
-### AI Systems Developer | Full-Stack Builder
 
-I am a technical student developer building **local AI orchestration systems**, **automation creating tools**, and **scalable web applications**.  
-I don't just consume APIs—I build the logic that connects them to the operating system and user interfaces.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Systems+Developer;Full-Stack+Builder;Building+Intelligence+into+Tools)](https://git.io/typing-svg)
 
----
+**I build AI-powered systems that run locally and web platforms that solve real problems.**
 
-### 🔧 Engineering Stack
+[Portfolio](https://tarunchandra.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/payakula-tarun-chandra-4a06452b3/) • [Email](mailto:payakulatarunchandra@gmail.com)
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Core & Systems** | **Python** (Automation, Scripting, AI Wrappers), **System Logic** |
-| **Web & Frontend** | **JavaScript/TypeScript**, **React**, **Next.js**, TailwindCSS |
-| **Backend & Data** | **Node.js**, **Firebase** (Real-time DB, Auth), REST APIs |
-| **Tools** | Git, VS Code, Postman, Docker (Basic) |
-
----
-
-### 💻 Featured Work
-
-#### 1. [AI Voice & System Assistant](https://github.com/PayakulaTarun/ai_voice_assistencs)
-> *Bridging the gap between LLMs and OS-level execution.*
-- **The Problem:** Most assistants are just chatbots. I needed one that could actually control my PC.
-- **The Solution:** Built a Python-based engine that processes voice commands to execute system tasks (app management, automation) with offline capabilities.
-- **Key Tech:** Python, Speech Recognition, OS Automation Libraries.
-
-#### 2. [Student Resource Hub](https://github.com/PayakulaTarun/Study_platform)
-> *A production-grade content delivery platform.*
-- **The Architecture:** A structured React application designed for modular content consumptions.
-- **Key Features:** Implemented real-time data synchronization with Firebase and a component-based UI for maintainability.
-- **Key Tech:** React, Firebase, CSS Modules, SPA Architecture.
-
----
-
-### 📊 Engineering Activity
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PayakulaTarun&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayakulaTarun&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
-<!-- 
-Credits:
-This profile is auto-generated to reflect real-time engineering status.
--->
+---
+
+## 🧠 What I Build
+
+I don't just connect to AI APIs—I architect the logic layer between AI models, operating systems, and user interfaces.
+
+**Current Focus:**
+- **Local AI orchestration** — Voice assistants that actually control your system, not just chat
+- **Full-stack platforms** — Learning and content delivery systems with real-time sync
+- **Automation infrastructure** — Python tools that eliminate repetitive work
+
+---
+
+## ⚙️ Technical Stack
+
+```
+Core Systems        Python · System APIs · Automation Logic
+Frontend            React · Next.js · JavaScript/TypeScript
+Backend             Node.js · Firebase · REST APIs
+Tools               Git · VS Code · Postman · Docker
+```
+
+**Learning:** AI model integration, distributed systems, advanced React patterns
+
+---
+
+## � Featured Projects
+
+### [AI Voice & System Assistant](https://github.com/PayakulaTarun/ai_voice_assistencs)
+**The Problem:** Most AI assistants are glorified chatbots that can't interact with your actual computer.
+
+**What I Built:** A Python-based voice assistant that bridges natural language commands to OS-level execution—opening apps, automating tasks, working offline when needed.
+
+**Why It Matters:** True productivity automation requires system access, not just conversation.
+
+`Python` `Speech Recognition` `OS Automation` `Offline AI`
+
+---
+
+### [Student Resource Hub](https://github.com/PayakulaTarun/Study_platform)
+**The Problem:** Students need structured, accessible learning content with smooth navigation and zero friction.
+
+**What I Built:** A production-ready React application with modular content architecture, real-time Firebase sync, and a clean component system for maintainability.
+
+**Why It Matters:** Good education platforms reduce cognitive load so students can focus on learning, not fighting the UI.
+
+`React` `Firebase` `Real-time Sync` `Component Architecture`
+
+---
+
+## 📊 Engineering Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PayakulaTarun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayakulaTarun&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+
+</div>
+
+---
+
+## 🤝 Let's Build Together
+
+I'm actively looking to collaborate on:
+- **AI system architecture** projects
+- **Open-source developer tools**
+- **Education/learning platforms**
+
+If you're building something that matters, let's talk.
+
+📬 **Reach me:** [payakulatarunchandra@gmail.com](mailto:payakulatarunchandra@gmail.com)
+
+---
+
+<div align="center">
+<sub>Built with intention. Shipped with honesty.</sub>
+</div>
