@@ -13,6 +13,15 @@
   </a>
 </div>
 
+<br/>
+
+<!-- Multi-Color Trophies (New Premium Feature) -->
+<div align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PayakulaTarun&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
+</div>
+
 <br/><br/>
 
 <!-- About Me Section -->
@@ -95,14 +104,13 @@
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PayakulaTarun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayakulaTarun&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-</div>
-
-<!-- Snake Animation (Placeholder for when Workflow runs) -->
-<div align="center">
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PayakulaTarun&show_icons=true&theme=gotham" height="150" alt="stats graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayakulaTarun&layout=compact&theme=gotham" height="150" alt="languages graph" />
   <br/>
-  <img src="https://github.com/PayakulaTarun/PayakulaTarun/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <!-- Streak Stats (New!) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PayakulaTarun&theme=gotham" height="150" alt="streak graph" />
 </div>
 
 <br/>
